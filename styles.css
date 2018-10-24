@@ -3,7 +3,11 @@ body{
 }
 body{
     background-color:black;
+    font-family: Satisfy;
 }
 img{
     border:6px dashed purple;
+}
+.blizzard{
+    color: green;
 }
